@@ -6,11 +6,11 @@ More and more people choose professional gymnasiums to practice badminton. The m
 <img src="https://github.com/xidaniel/Robot-for-collecting-badminton-shuttlecock/blob/master/x-bot.png" width=600 alt="robot" />
 
 ## Contributing
-- Built a unique physical robot from scratch and developed a software control system to automatically handle the logic among detection results, motion planning, and obstacle avoidance utilizing Python and OpenCV.
+- Built a unique physical robot from scratch and developed a software control system to automatically handle the logic among detection results, motion planning, and obstacle avoidance utilizing **Python and OpenCV**.
 - Developed an Android mobile application for the user to control robot activity via Bluetooth connection utilizing Java.
-- Design a dynamic website to present the robot’s development stages using HTML/JavaScript/CSS with a Tomcat web server.
-- Trained a badminton shuttlecock detection model utilizing a Faster R-CNN framework to achieve 97% average precision.
-- Optimized Frame per Second (FPS) from 3.68 to 34.4 perform real-time object detection on Raspberry Pi using Tensorflow Lite.
+- Design a dynamic website to present the robot’s development stages using HTML/JavaScript/CSS with a **Tomcat web server**.
+- Trained a badminton shuttlecock detection model utilizing a **Faster R-CNN** framework to achieve 97% average precision.
+- Optimized Frame per Second (FPS) from **3.68 to 34.4** perform real-time object detection on Raspberry Pi using **Tensorflow Lite**.
 
 ## Project Files Description
 - MainControl.py: Distance meansure, contral logic. 

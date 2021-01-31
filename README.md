@@ -18,3 +18,6 @@ More and more people choose professional gymnasiums to practice badminton. The m
 - Motor.py: Init and set up GPIO of raspberry Pi for moving.
 - Ultrasonic.py: To avoid obstacles by using ultrasonic sensor.
 - cascade.xml: Cascade classifier model by loading OpenCV framework.
+
+## Contact
+Xi Wang xiwang3317@gmail.com
